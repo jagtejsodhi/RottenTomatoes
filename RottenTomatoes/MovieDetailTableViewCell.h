@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MovieDetailTableViewCell.h
 //  RottenTomatoes
 //
 //  Created by Jagtej Sodhi on 9/15/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MovieDetailTableViewCell : UITableViewCell
 
 @end
-
